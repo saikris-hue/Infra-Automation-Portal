@@ -1,0 +1,26 @@
+{
+  "id": "0ae882fb-123a-4e22-8853-01c02599f78e",
+  "user_id": "b2ab805a-72f2-4821-944d-c21ebf2931e7",
+  "resource_type": "storage",
+  "subscription_name": "sub1",
+  "subscription_id": "123456",
+  "configuration": {
+    "name": "ss11",
+    "tags": {
+      "environment": "prod"
+    },
+    "location": "loc",
+    "account_tier": "Standard",
+    "network_rules": {
+      "ip_rules": "",
+      "default_action": "Allow",
+      "virtual_network_subnet_ids": ""
+    },
+    "resource_group_name": "rg11",
+    "account_replication_type": "RAGRS"
+  },
+  "status": "pending",
+  "admin_notes": null,
+  "created_at": "2025-07-02T14:36:11.821958+00:00",
+  "updated_at": "2025-07-02T14:36:11.821958+00:00"
+}
