@@ -28,3 +28,13 @@ storage_4090ce7a_80ca_4a12_beb5_88f48a1b0cfa_account_replication_type = "ZRS"
 storage_4090ce7a_80ca_4a12_beb5_88f48a1b0cfa_network_default_action = "Deny"
 storage_4090ce7a_80ca_4a12_beb5_88f48a1b0cfa_ip_rules           = []
 storage_4090ce7a_80ca_4a12_beb5_88f48a1b0cfa_virtual_network_subnet_ids = []
+
+# Storage Configuration for Request 92b33d28-69e4-4083-bc46-c44e054ff8a2
+storage_92b33d28_69e4_4083_bc46_c44e054ff8a2_account_name        = "ss"
+storage_92b33d28_69e4_4083_bc46_c44e054ff8a2_resource_group_name = "ss"
+storage_92b33d28_69e4_4083_bc46_c44e054ff8a2_location           = "dd"
+storage_92b33d28_69e4_4083_bc46_c44e054ff8a2_account_tier       = "Standard"
+storage_92b33d28_69e4_4083_bc46_c44e054ff8a2_account_replication_type = "RAGRS"
+storage_92b33d28_69e4_4083_bc46_c44e054ff8a2_network_default_action = "Deny"
+storage_92b33d28_69e4_4083_bc46_c44e054ff8a2_ip_rules           = []
+storage_92b33d28_69e4_4083_bc46_c44e054ff8a2_virtual_network_subnet_ids = []
